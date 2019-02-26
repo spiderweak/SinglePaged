@@ -5,3 +5,16 @@ jeudi:
     image: lancement.png
     funding: https://liberapay.com/pses/
     text: Présentation du Festival, de l'association White Rabbit - PSES et appel aux dons
+
+vendredi:
+  - title: FoodTrucks à gogo
+    time: 11h30-14h30
+    place: devant la Médiathèque
+    image: food.png
+    text: Yen aura pour tous les goûts
+
+  - title: Soirée Ciné
+    time: 20h-21h30
+    place: Salle de ciné
+    image: cinema.png
+    text: Diffusion d'un film cool

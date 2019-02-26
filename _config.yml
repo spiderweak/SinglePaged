@@ -17,7 +17,7 @@ highlighter: pygments
 title:       "PSES 2019 @ Choisy-le-Roy"
 keywords:    "PSES, jekyll, White Rabbit, White Rabbit - PSES, Choisy-le-Roi, activism, hacktivism, privacy, ..."
 description: "PSES 2019 est un festival de sensibilisation aux enjeux du numérique et de son développement, mettant en avant des problématique comme le respect de la vie privée"
-source_link: "https://github.com/spiderweak/codeweek15/"
+source_link: "https://github.com/spiderweak/pses-programme-2019-test/"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 
@@ -36,12 +36,8 @@ colors:
   activities:   '#333333'
   jeudi:        '#444444'
   vendredi:     '#555555'
-  tuesday:      '#578e77'
-  wednesday:    '#4f7c80'
-  thursday:     '#486a89'
-  friday:       '#415992'
-  saturday-two: '#39479b'
-  contacts:     '#3035A4'
+  villageasso:  '#98699f'
+  contact:     '#303534'
 
 kramdown:
   auto_ids:  false
