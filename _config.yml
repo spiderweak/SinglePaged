@@ -11,16 +11,15 @@ permalink: /:title ## disables post output
 timezone: null
 lsi: false
 markdown: kramdown
-
+highlighter: pygments
 
 ### content configuration ###
-title:       "SinglePaged - Simple Jekyll template"
-keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
-source_link: "https://github.com/t413/SinglePaged"
+title:       "PSES 2019 @ Choisy-le-Roy"
+keywords:    "PSES, jekyll, White Rabbit, White Rabbit - PSES, Choisy-le-Roi, activism, hacktivism, privacy, ..."
+description: "PSES 2019 est un festival de sensibilisation aux enjeux du numérique et de son développement, mettant en avant des problématique comme le respect de la vie privée"
+source_link: "https://github.com/spiderweak/codeweek15/"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
-google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
 
 
 ### template colors, used site-wide via css ###
@@ -32,7 +31,20 @@ colors:
   purple:    '#c869bf'
   orange:    '#fab125'
   turquoise: '#0fbfcf'
+  intro:        '#000000'
+  festival:     '#222222'
+  activities:   '#333333'
+  jeudi:        '#444444'
+  vendredi:     '#555555'
+  tuesday:      '#578e77'
+  wednesday:    '#4f7c80'
+  thursday:     '#486a89'
+  friday:       '#415992'
+  saturday-two: '#39479b'
+  contacts:     '#3035A4'
 
 kramdown:
   auto_ids:  false
 
+sass:
+  sass_dir: stylesheets/_sass/

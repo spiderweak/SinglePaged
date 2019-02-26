@@ -1,0 +1,58 @@
+jeudi:
+  - title: Lancement du festival
+    time: 15h-16h
+    place: Médiathèque
+    image: lancement.png
+    funding: https://liberapay.com/pses/
+    text: Présentation du Festival, de l'association White Rabbit - PSES et appel aux dons
+
+  - title: "BragaJS: Meteor Global Distributed Hackathon"
+    time: 11h-11h (24h)
+    place: DI A1
+    image: meteor.png
+    text: None
+
+vendredi:
+  - title: DI Goes Retro
+    time: 9h-18h
+    place: Átrio do DI
+    image: retro.png
+    text: É durante este dia que o Departamento de Informática entra numa máquina do tempo. Os computadores são substituídos pelos seus antecessores dos anos 80 e 90. Aparece para relembrar as raízes da computação através de jogos arcade e um museu aberto!
+
+  - title: Bash Introduction
+    time: 16h-18h
+    place: DI A1
+    image: bash.png
+    typeform: https://cesium.typeform.com/to/gtDVSe
+    text: Especialmente preparada para os novos utilizadores de Linux, esta palestra para iniciantes prepara-te para a utilização produtiva do terminal.
+    presentation: https://prezi.com/nxv4lyntrudh/cesium-bash-introduction/
+
+samedi:
+  - title: Segurança
+    time: 17h-19h
+    place: DI A1
+    image: segurança.png
+    typeform: https://cesium.typeform.com/to/jau8Ed
+    text: 'A <a target="_blank" href="http://eurotux.com/">Eurotux</a> apresenta-te a primeira de uma série de sessões sobre cibersegurança. Junta-te a nós para aprender os básicos de sistemas e segurança e como os hackers exploram as vulnerabilidades.'
+
+  - title: Geek Night
+    time: 20h30-22h
+    place: Velha-a-Branca
+    image: geenorbertk.png
+    text: As tradicionais Braga Geek Nights estão de volta! Vamos criar o ambiente ideal para te divertires. Vem ter connosco para um serão de informática e convívio.
+
+dimanche:
+  - title: "Elixir: A Talk for College Students"
+    time: 14h-16h
+    place: DI A1
+    image: elixir.png
+    typeform: https://cesium.typeform.com/to/BVRFSJ
+    text: Elixir é uma das linguagens do momento! Escalável, funcional e tolerante a falhas. Connosco terás uma palestra preparada para ti, com várias comparações com linguagens mais conhecidas.
+    presentation: https://speakerdeck.com/frmendes/elixir-a-talk-for-college-students
+
+  - title: JavaScript
+    time: 16h-18h
+    place: DI A1
+    image: javascript.png
+    typeform: https://cesium.typeform.com/to/qPxrdE
+    text: JavaScript é uma das linguagens em maior desenvolvimento, com várias frameworks a surgir! Junta-te a <a target="_blank" href="https://github.com/pfac">Pedro Costa</a> para aprenderes os básicos desta linguagem essencial para o desenvolvimento web.
