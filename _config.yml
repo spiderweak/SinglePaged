@@ -36,6 +36,8 @@ colors:
   activities:   '#333333'
   jeudi:        '#444444'
   vendredi:     '#555555'
+  samedi:       '#666666'
+  dimanche:     '#777777'
   villageasso:  '#98699f'
   contact:     '#303534'
 
