@@ -3,7 +3,7 @@ title: "programme"
 bg: intro
 color: white
 style: center
-fa-ico, : calendar
+fa-icon : calendar
 ---
 
 ## Programme de PSES
