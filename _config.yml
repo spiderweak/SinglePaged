@@ -31,15 +31,13 @@ colors:
   purple:    '#c869bf'
   orange:    '#fab125'
   turquoise: '#0fbfcf'
-  intro:        '#000000'
-  festival:     '#222222'
-  activities:   '#333333'
-  jeudi:        '#444444'
-  vendredi:     '#555555'
-  samedi:       '#666666'
-  dimanche:     '#777777'
-  villageasso:  '#98699f'
-  contact:     '#303534'
+  intro:     '#000000'
+  festival:  '#222222'
+  activities: '#333333'
+  villageasso: '#444444'
+  manger:      '#555555'
+  venir:       '#666666'
+  contact:     '#777777'
 
 kramdown:
   auto_ids:  false

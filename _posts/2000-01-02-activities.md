@@ -11,7 +11,7 @@ icon: img/pses-logo.png
   <div class="col s12 m4 feature">
     <i class="fa fa-comments-o fa-4x">
     </i>
-    <h4> Des conférences sur le numérique et ses enjeux</h4>
+    <h4> Des conférences</h4>
     <p class="feature-description"> Activisme, Vie Privée, RGPD, CivicTech, Hacking, ...</p>
   </div>
   <div class="col s12 m4 feature">
