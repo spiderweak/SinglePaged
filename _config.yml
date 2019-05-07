@@ -32,12 +32,15 @@ colors:
   orange:    '#fab125'
   turquoise: '#0fbfcf'
   intro:     '#000000'
-  festival:  '#222222'
-  activities: '#333333'
-  villageasso: '#444444'
+  activities:  '#111111'
+  program:     '#222222'
+  villageasso: '#333333'
+  acces:       '#444444'
   manger:      '#555555'
-  venir:       '#666666'
-  contact:     '#777777'
+  conduite:    '#666666'
+  asso:        '#777777'
+  contact:     '#666666'
+  mentions:    '#777777'
 
 kramdown:
   auto_ids:  false

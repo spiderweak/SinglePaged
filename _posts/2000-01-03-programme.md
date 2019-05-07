@@ -1,6 +1,6 @@
 ---
 title: "programme"
-bg: intro
+bg: program
 color: white
 style: center
 fa-icon : calendar

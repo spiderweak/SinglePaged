@@ -1,13 +1,15 @@
 ---
 title: "Le Festival"
-bg: festival
+bg: activities
 color: white
 icon: img/pses-logo.png
 alt: Logo PSES
 ---
 
-#### PSES, c'est quoi ?
+## PSES, c'est quoi ?
+
 # En trois points
+
 <div class="row features">
   <div class="col s12 m4 feature">
     <i class="fa fa-comments-o fa-4x">

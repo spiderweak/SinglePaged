@@ -1,6 +1,6 @@
 ---
 title: "L'association"
-bg: contact
+bg: asso
 color: white
 icon: img/pses-logo.png
 ---
