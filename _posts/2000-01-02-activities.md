@@ -3,6 +3,7 @@ title: "Le Festival"
 bg: festival
 color: white
 icon: img/pses-logo.png
+alt: Logo PSES
 ---
 
 #### PSES, c'est quoi ?

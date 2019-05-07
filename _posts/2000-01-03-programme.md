@@ -6,7 +6,7 @@ style: center
 fa-icon : calendar
 ---
 
-## Programme de PSES
+## Programme de PSES
 
 La programmation du festival est disponible sur cette page : <a href="https://programme.passageenseine.fr">https://programme.passageenseine.fr</a>
 
