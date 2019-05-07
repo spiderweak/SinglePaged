@@ -38,9 +38,9 @@ colors:
   acces:       '#444444'
   manger:      '#555555'
   conduite:    '#666666'
-  asso:        '#777777'
+  asso:        '#555555'
   contact:     '#666666'
-  mentions:    '#777777'
+  mentions:    '#555555'
 
 kramdown:
   auto_ids:  false
