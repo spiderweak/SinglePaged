@@ -17,7 +17,7 @@ fa-icon: group
   {% endif %}
     <div class="row activity-info-wrapper valign-wrapper">
       <div class="col m3 activity-img valign">
-        <img  src="img/{{group.image}}" alt="group.title">
+        <img  src="img/{{group.image}}" alt="{{ group.title }}">
       </div>
       <div class="col m9 activity-info">
         <h4 class="activity-title"> {{ group.title }} </h4>
