@@ -3,8 +3,17 @@
   website: https://exodus-privacy.eu.org/fr
   text: Exodus Privacy est une association qui a pour but d'étudier et de vulgariser l'écosystème de pistage sur mobile, principalement en développant la plateforme εxodus, qui permet de lister les pisteurs d'une application Android. Exodus Privacy sera présent tout au long du festival et animera au village associatif un atelier PiRogue, pour vous permettre de voir quels acteurs les pisteurs de votre smartphone contactent.
   
-- title: Nos oignons
-  image: assoc/nosoignons.png
-  website: https://nos-oignons.net
-  funding: https://nos-oignons.net/campagne2018/
-  text: Nos oignons est une association à but non-lucratif créée pour collecter des dons afin de faire tourner des nœuds de sortie Tor.
+- title: Franciliens
+  image: assoc/franciliens.png
+  website: https://franciliens.net
+  text: Fournisseur d'accès internet associatif, franciliens sera présent pendant les quatre jours de PSES pour discuter internet libre.
+
+- title: Observatoire International des Prisons
+  image: assoc/oip-sf.png
+  website: https://oip.org
+  text: La section française de l’Observatoire international des prisons (OIP-SF) est une association loi 1901 qui agit pour le respect des droits de l’homme en milieu carcéral et un moindre recours à l’emprisonnement et qui dispose du statut consultatif auprès des Nations Unies.
+
+- title: Caliopen
+  image: assoc/caliopen.png
+  website: https://caliopen.org
+  text: Caliopen est une plateforme opensource d'aggrégation de messagerie proposant à l'utilisateur de regrouper la totalité de ses messages privés tout en vous aidant à maintenir le contrôle sur votre vie privée  

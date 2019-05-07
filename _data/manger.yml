@@ -1,10 +1,15 @@
-- title: Exodus Privacy
-  image: assoc/exodus_privacy.png
+- title: Totin
   website: https://exodus-privacy.eu.org/fr
-  text: Exodus Privacy est une association qui a pour but d'étudier et de vulgariser l'écosystème de pistage sur mobile, principalement en développant la plateforme εxodus, qui permet de lister les pisteurs d'une application Android. Exodus Privacy sera présent tout au long du festival et animera au village associatif un atelier PiRogue, pour vous permettre de voir quels acteurs les pisteurs de votre smartphone contactent.
+  text: Le jeudi, Totin vous régale
   
-- title: Nos oignons
-  image: assoc/nosoignons.png
-  website: https://nos-oignons.net
-  funding: https://nos-oignons.net/campagne2018/
-  text: Nos oignons est une association à but non-lucratif créée pour collecter des dons afin de faire tourner des nœuds de sortie Tor.
+- title: Totin
+  website: https://exodus-privacy.eu.org/fr
+  text: Le vendredi, Totin vous régale aussi
+
+- title: Le beau caillou
+  website: https://http://lebeaucaillou.com/
+  text: Le samedi, Le beau caillou vous servira ses recettes caribéennes
+
+- title: Le comptoir Indien
+  website: https://lecomptoirindien.com
+  text: Le dimanche, Le comptoir indien vous régale de ses spécialités indiennes 
