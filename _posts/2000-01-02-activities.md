@@ -1,7 +1,7 @@
 ---
 title: "Le Festival"
 bg: activities
-color: white
+color: white 
 icon: img/pses-logo.png
 alt: Logo PSES
 ---
